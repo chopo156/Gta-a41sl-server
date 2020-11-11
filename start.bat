@@ -1,2 +1,2 @@
-cd D:\Code\a41slServer\server-data
-D:\Code\a41slServer\FXServer.exe +exec server.cfg
+cd D:\Code\Gta-a41sl-server\server-data
+D:\Code\Gta-a41sl-server\FXServer.exe +exec server.cfg
