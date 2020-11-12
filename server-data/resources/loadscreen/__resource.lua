@@ -5,4 +5,3 @@ loadscreen 'html/index.html'
 files {
     "html/*"
 }
-© 2020 GitHub, In
